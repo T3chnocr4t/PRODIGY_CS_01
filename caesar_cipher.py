@@ -4,11 +4,11 @@
 
 def display_author_name():
     author_name = "[T3chnocr4t]" 
-    print("------------------------------------------------")
+    print("----------------------------------------------------------**")
     print("This script was written by:")
     print()
     print(f"    {author_name}")
     print()
-    print("------------------------------------------------")
+    print("----------------------------------------------------------**")
 display_author_name()
 
